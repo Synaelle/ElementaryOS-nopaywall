@@ -1,4 +1,4 @@
-# ElementaryOS - No fake paywall
+# ElementaryOS - No fake paywall [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 This javascript browser extension remove the fake paywall on ElementaryOS website. The way they ask money is too agressive, and they seem to act like they coded everything. It's built on FOSS software, that's what they need to remember.
 
 For people think you actually have to pay, that's their strategy. You have to put 0$ on custom amount for getting it free.
