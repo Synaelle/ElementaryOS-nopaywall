@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ElementaryOS - Remove paywall
 // @namespace    https://github.com/Synaelle/ElementaryOS-nopaywall
-// @version      0.1
+// @version      1.0
 // @description  It removes the fake paywall on ElementaryOS website
 // @author       Synaelle
 // @match        https://elementary.io/*
